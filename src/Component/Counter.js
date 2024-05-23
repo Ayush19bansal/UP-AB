@@ -23,7 +23,7 @@ const Counter = () => {
       {/* Replace MUI Button with Chakra UI Button */}
       <Button
         colorScheme="blue"
-        onClick={() => setCount(Math.min(count + 1, 20))}
+        onClick={() => setCount(Math.min(count + 1, 23))}
         className="btn btn1"
       >
         Increment
