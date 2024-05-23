@@ -15,7 +15,7 @@ function Home() {
   const { colorMode } = useColorMode();
 
   const backgroundAnimation = useSpring({
-    height: `calc(min(100%, calc(${ctx.data * 50}px)))`,
+    height: `calc(min(100%, calc(${ctx.data * 60}px)))`,
     backgroundColor: `rgba(0, 0, 255, ${ctx.data / 40})`,
     config: { tension: 210, friction: 20 },
   });

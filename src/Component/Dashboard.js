@@ -79,7 +79,7 @@ const Dashboard = () => {
          
         </Flex>
       ) : Object.keys(userDetails).length > 0 ? (
-        <Box style={{ backgroundColor: 'lightgray', padding: '10px', borderRadius: '5px', zIndex: "10", color: colorMode === 'light' ? 'black' : 'black' }}>
+        <Box style={{ backgroundColor: 'lightgray', padding: '10px', borderRadius: '5px', zIndex: "10", color: colorMode === 'light' ? 'black' : 'black' ,marginBottom:"15px",height:"100%"}}>
 
         <Heading size="md" mb={2}>
           {userDetails.name}
