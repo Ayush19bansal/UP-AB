@@ -1,0 +1,15 @@
+.editor{
+    margin: 10px;
+    /* gap:1rem; */
+    /* border: 2px solid rgb(56, 31, 158); */
+    /* height: 500px; */
+}
+.editor .button{
+    /* padding: 0.5rem 1rem; */
+    border: none;
+    border-radius: 0.5rem;
+    color: white;
+    background-color: rgb(29, 29, 29);
+    cursor: pointer;
+}
+
