@@ -36,7 +36,7 @@ const RichTextEditor = () => {
 
   return (
     <animated.div style={editorSpring}>
-      <Flex direction="column" align="center" justify="center" zIndex="10" padding="5px" borderRadius="10px">
+      <Flex direction="column" align="center" justify="center" zIndex="10" padding="4px" borderRadius="10px">
         <Box zIndex="10" width="95%" p="3" bg={colorMode === 'light' ? 'white' : 'white'} color={colorMode === 'light' ? 'black' : 'black'}>
           <ReactQuill
             value={editorContent}
@@ -44,7 +44,7 @@ const RichTextEditor = () => {
             theme="snow"
             style={{ height: '150px', backgroundColor: colorMode === 'light' ? 'white' : 'white' ,zIndex:"10"}}
           />
-          <Button colorScheme="blue" mt="18" p={5} onClick={handleSave}>Save</Button>
+          <button style={{backgroundColor:"#3182CE",marginTop:"50px",padding:"3px",paddingInline:"10px",color:"white"}} onClick={handleSave}>Save</button>
         </Box>
       </Flex>
     </animated.div>
