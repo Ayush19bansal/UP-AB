@@ -91,6 +91,7 @@ The Dashboard component displays a list of users stored in the local storage. Us
 - **React Router**: For client-side routing.
 - **React Spring**: For animations.
 - **React Toastify**: For notifications.
-- **Context API**:  (for state management)y.
+- **Context API**:  (for state management).
+- **React charts** : For chart Line .
 
 
