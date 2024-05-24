@@ -72,7 +72,7 @@ const Dashboard = () => {
 
       {users.length === 0 ? (
         <Flex direction="column" align="center">
-         <h3 style={{marginBottom:"15px"}}>Please Fill out the form with the user's information and select a user.</h3>
+         <h3 style={{marginBottom:"15px",marginInline:"5px"}}>Please Fill out the form with the user's information and select a user.</h3>
           <CircularProgress isIndeterminate color="blue.500" />
           
           <Text mt={2}>Loading users...</Text>
