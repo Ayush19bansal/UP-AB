@@ -2,6 +2,26 @@
 
 This is a React application that includes various components such as a counter, a rich text editor, a user form, a dashboard, and authentication features. The app is built using React, Chakra UI, Firebase, and React Router.
 
+### LoginIn Page 
+![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/c74fe4c3-c1d8-446e-8585-a1640e9c4d31)
+
+### Home Page (Initial State)
+The initial state of the Home Page when the application is first loaded is shown below. In this state, dark mode is not applied, and the counter is set to 0.
+![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/68b4b28b-7d91-46ab-a423-67bdd6db9562)
+
+- The state of the Home Page when the counter is set to 5 is shown below. In this state, the application might be in light or dark mode depending on user preference.
+ ![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/9820f10e-c522-4948-bfee-d6b8ce1dd8b7)
+
+- After Counter changes full background cOlor 
+![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/e23223b4-9b12-406b-9ceb-87f57ed52154)
+- Dark Mode
+![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/047884c0-6424-468d-87b3-7ef7412eab4b)
+
+
+
+
+
+
 ## Components
 ### 1. Counter
 A simple counter component with increment, decrement, and reset functionalities.
@@ -9,8 +29,6 @@ A simple counter component with increment, decrement, and reset functionalities.
 - Displays a counter value.
 - Buttons to increment, decrement, and reset the counter. Displays user details upon selection.
 - Updates context with the current counter value.
-
-
 
 
 ### 2. Rich Text Editor
@@ -39,6 +57,11 @@ The Dashboard component displays a list of users stored in the local storage. Us
 - Loads user data from local storage.
 - Displays user details upon selection.
 - Provides an interface to select a user and view their details.
+
+- ![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/558bf7b9-6892-4ac1-b49b-b06990e9b118)
+- ![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/9c7a5306-6f32-45ac-8343-eecd35f5e1e0)
+
+
 
 
 ## Features
