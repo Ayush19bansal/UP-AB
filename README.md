@@ -14,16 +14,20 @@ You can access the live version of the application [here](https://up-ab.vercel.a
 
 ### Home Page (Initial State)
 The initial state of the Home Page when the application is first loaded is shown below. In this state, dark mode is not applied, and the counter is set to 0.
-![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/68b4b28b-7d91-46ab-a423-67bdd6db9562)
+![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/6c94fc08-a21b-4d5e-beaf-23c1e4eb14dc)
+
 
 - The state of the Home Page when the counter is set to 5 is shown below. In this state, the application might be in light or dark mode depending on user preference.
-![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/b8587594-b46c-4a71-94c1-89ce823fe949)
+![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/eb38c9ea-356f-49df-91bf-324d95a969c3)
+
 
 
 - After Counter changes full background cOlor 
-![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/e23223b4-9b12-406b-9ceb-87f57ed52154)
+![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/2461d994-c15e-4903-9b30-15ec55b3d50a)
+
 - Dark Mode
-![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/047884c0-6424-468d-87b3-7ef7412eab4b)
+![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/9003a229-6145-4dff-88c8-91aae2aee36c)
+
 
 
 
