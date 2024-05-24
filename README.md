@@ -1,8 +1,15 @@
 # User Dashboard Application
 
 This is a React application that includes various components such as a counter, a rich text editor, a user form, a dashboard, and authentication features. The app is built using React, Chakra UI, Firebase, and React Router.
+## Hosted Application
 
-### LoginIn Page 
+You can access the live version of the application [here](https://up-ab.vercel.app/).
+
+**Note:** This application is fully responsive and adapts to various screen sizes and devices, ensuring optimal user experience across desktop, tablet, and mobile devices.
+
+
+
+### LogIn Page 
 ![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/c74fe4c3-c1d8-446e-8585-a1640e9c4d31)
 
 ### Home Page (Initial State)
