@@ -10,7 +10,8 @@ The initial state of the Home Page when the application is first loaded is shown
 ![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/68b4b28b-7d91-46ab-a423-67bdd6db9562)
 
 - The state of the Home Page when the counter is set to 5 is shown below. In this state, the application might be in light or dark mode depending on user preference.
- ![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/9820f10e-c522-4948-bfee-d6b8ce1dd8b7)
+![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/b8587594-b46c-4a71-94c1-89ce823fe949)
+
 
 - After Counter changes full background cOlor 
 ![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/e23223b4-9b12-406b-9ceb-87f57ed52154)
@@ -58,8 +59,8 @@ The Dashboard component displays a list of users stored in the local storage. Us
 - Displays user details upon selection.
 - Provides an interface to select a user and view their details.
 
-- ![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/558bf7b9-6892-4ac1-b49b-b06990e9b118)
-- ![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/9c7a5306-6f32-45ac-8343-eecd35f5e1e0)
+  ![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/558bf7b9-6892-4ac1-b49b-b06990e9b118)
+ ![image](https://github.com/Ayush19bansal/UP-AB/assets/118842033/9c7a5306-6f32-45ac-8343-eecd35f5e1e0)
 
 
 
