@@ -27,7 +27,7 @@ function Login() {
 
   return (
     <div className="login-form">
-      <h2>Login</h2>
+      <h2 style={{fontSize:"25px",fontWeight:"bold",marginBottom:"10px"}}>Login</h2>
       <form onSubmit={handleSubmit}>
         <div className="input-container">
           <label htmlFor="email">Email address</label>

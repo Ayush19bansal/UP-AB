@@ -38,7 +38,7 @@ function Register() {
 
   return (
     <div className="signup-form">
-      <h3>Sign Up</h3>
+      <h3 style={{fontSize:"25px",fontWeight:"bold",marginBottom:"10px"}}>Sign Up</h3>
       <form onSubmit={handleRegister}>
         <div className="input-container">
           <label htmlFor="fname">First Name</label>
